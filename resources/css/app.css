@@ -1,0 +1,11 @@
+/* Custom Sidebar Styling */
+.sidebar {
+    background-color: #f8f9fa; /* Light grey background */
+    padding: 15px;
+}
+
+.sidebar .list-group-item {
+    border: 1px solid #ddd; /* Borders to resemble table columns */
+    margin-bottom: 5px; /* Spacing between items */
+    text-align: center; /* Center text like a column label */
+}
